@@ -24,7 +24,7 @@ So this space is both my **portfolio and my playground** ⚽ for side projects, 
 *   Small, iterative projects that spark interest
     
 
-## 🤝 Connect With Me
+## 🤝 Connect With Me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiayue-joy-l-323976111/)    
 
 If you:
 
@@ -36,5 +36,4 @@ If you:
     
 *   want to **do yoga together** (I’m also becoming a yoga teacher 🧚)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiayue-joy-l-323976111/)    
 **Namaste.** 🧘‍♀️✨
