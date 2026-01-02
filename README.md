@@ -10,7 +10,7 @@ After 5 years in the corporate world, I’ve built a strong understanding of ent
 
 Hence, to **showcase my potential as a DE** and bring real, hands‑on experience into sight for HR and future employers, I’m here to code, build, and share projects that reflect my skills. <br>
 
-At the same time, **building my own data projects and keeping up with modern data trend is very juicy for me**.
+At the same time, **building my own data projects - even if it is small and iterative, and keeping up with modern data trend is very juicy for me**.
 
 So this space is both my **portfolio and my playground** ⚽ for side projects, experiments, and ideas that excite me, whether or not they lead to a job.
 
