@@ -17,7 +17,7 @@ So this space is both my **portfolio and my playground** ⚽ for side projects, 
 
 ## 🛠️ What I’m Working On
 
-* End‑to‑end Data Engineering: ingestion pipelines, ELT transformations, data quality testing, and workflow orchestration — [Project Link](https://github.com/joyliu0000/NYC_Taxi_CDC_SCD_Pipeline_run) [![Repo](https://img.shields.io/badge/NYC_Taxi_Pipeline-blue)]
+* End‑to‑end Data Engineering: ingestion pipelines, ELT transformations, data quality testing, and workflow orchestration ![Repo](https://img.shields.io/badge/NYC_Taxi_Pipeline-blue)
     
 *   AI/ML experiments (Coming soon)
     
@@ -35,8 +35,6 @@ If you:
 *   want to **talk data or tech**
     
 *   want to **do yoga together** (I’m also becoming a yoga teacher 🧚)
-  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jiayue-joy-l-323976111/)
-    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiayue-joy-l-323976111/)    
 **Namaste.** 🧘‍♀️✨
