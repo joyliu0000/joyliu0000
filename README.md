@@ -17,7 +17,7 @@ So this space is both my **portfolio and my playground** ⚽ for side projects, 
 
 ## 🛠️ What I’m Working On
 
-*   Data workflows reflecting DE skills (Data Ingestion, ETL, Unity Test, Automated Workflow)
+* End‑to‑end Data Engineering: ingestion pipelines, ELT transformations, data quality testing, and workflow orchestration — [Project Link](https://github.com/joyliu0000/NYC_Taxi_CDC_SCD_Pipeline_run) [![Repo](https://img.shields.io/badge/NYC_Taxi_Pipeline-blue)]
     
 *   AI/ML experiments (Coming soon)
     
