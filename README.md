@@ -8,7 +8,7 @@ I’m a **data professional** based in Utrecht, living with my three lovely cats
 
 After 5 years in the corporate world, I’ve built a strong understanding of enterprise data architecture. Most of my experience has been as a **Data Analyst** and **Analytics Engineer**, but lately life has been nudging me toward a new direction — **Data Engineering**. <br>
 
-To **showcase my potential as a Data Engineer** and bring real, hands‑on experience into sight for HR and future employers, I’m here to code, build, and share projects that reflect my skills. <br>
+To **showcase my potential as a DE** and bring real, hands‑on experience into sight for HR and future employers, I’m here to code, build, and share projects that reflect my skills. <br>
 
 At the same time, **actually building something small and working is very juicy for me** — it fits my work philosophy perfectly 🚀: build fast, iterate small, stay curious. <br>
 
