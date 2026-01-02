@@ -10,7 +10,7 @@ After 5 years in the corporate world, I’ve built a strong understanding of ent
 To **showcase my potential as a Data Engineer** and bring real, hands‑on experience into sight for HR and future employers, I’m here on GitHub to code, build, and share projects that reflect my skills. <br>
 
 At the same time, **actually building something small and working is very juicy for me** — it fits my work philosophy perfectly: build fast, iterate small, stay curious.
-So this space is both my portfolio and my playground for side projects, experiments, and ideas that excite me, whether or not they lead to a job.
+So this space is both my **portfolio and my playground** for side projects, experiments, and ideas that excite me, whether or not they lead to a job.
 
 
 ## 🛠️ What I’m Working On
