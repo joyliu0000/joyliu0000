@@ -36,6 +36,6 @@ If you:
     
 *   want to **do yoga together** (I’m a yoga teacher)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jiayue-joy-l-323976111/)
+Feel free to reach out: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jiayue-joy-l-323976111/)
     
 **Namaste.** 🧘‍♀️✨
