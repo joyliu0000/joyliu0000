@@ -29,5 +29,4 @@ If you:
     
 *   want to **do yoga together** (I’m a yoga teacher)
     
-
-I’m based in **Utrecht, Netherlands**.**Cheers.** 🧘‍♀️✨
+**Cheers.** 🧘‍♀️✨
