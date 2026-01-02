@@ -34,5 +34,3 @@ If you:
     
 
 I’m based in **Utrecht, Netherlands**.**Cheers.** 🧘‍♀️✨
-
-If you want, I can also make a version with icons/badges or a more playful aesthetic.
