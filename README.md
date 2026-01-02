@@ -17,9 +17,9 @@ So this space is both my **portfolio and my playground** ⚽ for side projects, 
 
 ## 🛠️ What I’m Working On
 
-*   Data engineering skills reflecting data workflows
+*   Data workflows reflecting DE skills (Data Ingestion, ETL, Unity Test, Automated Workflow)
     
-*   AI/ML experiments
+*   AI/ML experiments (Coming soon)
     
 *   Small, iterative projects that spark interest
     
