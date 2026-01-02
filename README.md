@@ -1,13 +1,11 @@
 ## 👋 Hi, I’m Joy
 Welcome to my GitHub space!
-
-## 🧭 About Me
-
-Data analyst / data scientist transitioning into **data engineering** and aiming to become a **full‑stack data professional**.
+I am a Data Professional with 5 years experience in the Netherlands, in banking industry. Most time, I have served as a Data Analyst or Analytics Engineer. 
+Life's flow nudges me into the direction - to transition into **Data Engineering** and eventually to land in a role as a **full‑stack data professional**.
 
 ## 📘 My Journey
 
-I created this GitHub during my **Data Science Master’s (2024)**.After **5 years in the corporate world**, I gained a strong understanding of enterprise data architecture — but I’ve always had a **startup mindset**: build fast, iterate small, stay curious.So I’m back here, rebuilding and experimenting.
+After **5 years in the corporate world: banking**, I gained a strong understanding of enterprise data architecture and served as a Data Analyst/Data . However deep down I know I want to use my **startup mindset**: build fast, iterate small, stay curious. So I’m back here, rebuilding and experimenting.
 
 ## 🛠️ What I’m Working On
 
