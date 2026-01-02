@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Joy
-Welcome to my GitHub space! Make yourself comfortable... 😉<br>
+Welcome to my GitHub! Make yourself comfortable... 😉<br>
 
 I’m a **data professional** based in Utrecht, living with my three lovely cats 🐱, and fueled by yoga 🧘‍♀️ and good coffee ☕.
 
