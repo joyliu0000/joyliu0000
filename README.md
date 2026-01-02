@@ -34,8 +34,9 @@ If you:
     
 *   want to **talk data or tech**
     
-*   want to **do yoga together** (I’m a yoga teacher)
+*   want to **do yoga together** (I’m also becoming a yoga teacher 🧚)
+  
 
-Feel free to reach out: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jiayue-joy-l-323976111/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jiayue-joy-l-323976111/)
     
 **Namaste.** 🧘‍♀️✨
