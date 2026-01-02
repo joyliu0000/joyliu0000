@@ -10,7 +10,7 @@ After 5 years in the corporate world, I’ve built a strong understanding of ent
 
 Hence, to **showcase my potential as a DE** and bring real, hands‑on experience into sight for HR and future employers, I’m here to code, build, and share projects that reflect my skills. <br>
 
-At the same time, **actually building something small and working is very juicy for me** — it fits my work philosophy perfectly 🚀: build fast, iterate small, stay curious. <br>
+At the same time, **building my own data projects and keeping up with ML is very juicy for me**.
 
 So this space is both my **portfolio and my playground** ⚽ for side projects, experiments, and ideas that excite me, whether or not they lead to a job.
 
