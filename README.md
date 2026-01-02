@@ -1,10 +1,14 @@
 ## 👋 Hi, I’m Joy
-Welcome to my GitHub space!
+Welcome to my GitHub space! <br>
 I am a Data Professional, living with my beautiful 3 cats in Utrecht, with love of practicing yoga and making coffee. 
 
 ## 📘 My Journey
 
-After **5 years in the corporate world**, I gained a strong understanding of enterprise data architecture. Most time, I have served as a Data Analyst or Analytics Engineer. However, I find that the life's flow is nudging me into the new direction - **Data Engineering**. I know I want to use my **startup mindset**: build fast, iterate small, stay curious. So I’m back here, rebuilding and experimenting.
+After 5 years in the corporate world, I’ve built a strong understanding of enterprise data architecture. Most of my experience has been as a **Data Analyst** and **Analytics Engineer**, but lately life has been nudging me toward a new direction — **Data Engineering**.
+To **showcase my potential as a Data Engineer** and bring real, hands‑on experience into sight for HR and future employers, I’m here on GitHub to code, build, and share projects that reflect my skills.
+At the same time, **actually building something small and working is very juicy for me** — it fits my work philosophy perfectly: build fast, iterate small, stay curious.
+So this space is both my portfolio and my playground for side projects, experiments, and ideas that excite me, whether or not they lead to a job.
+
 
 ## 🛠️ What I’m Working On
 
