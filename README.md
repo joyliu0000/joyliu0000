@@ -10,7 +10,7 @@ After 5 years in the corporate world, I’ve built a strong understanding of ent
 
 Tiny part of the nudge comes from a recent reorganization, and big part from my growing interest in designing reliable, scalable data flows instead of only producing insights. <br>
 
-To **showcase my potential as a DE** and bring real, hands‑on experience into sight for HR and future employers, I’m here to code, build, and share projects that reflect my skills. <br>
+Hence, to **showcase my potential as a DE** and bring real, hands‑on experience into sight for HR and future employers, I’m here to code, build, and share projects that reflect my skills. <br>
 
 At the same time, **actually building something small and working is very juicy for me** — it fits my work philosophy perfectly 🚀: build fast, iterate small, stay curious. <br>
 
