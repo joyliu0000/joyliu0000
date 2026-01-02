@@ -1,6 +1,7 @@
 ## 👋 Hi, I’m Joy
-Welcome to my GitHub space! <br>
-I am a Data Professional, living with my beautiful 3 cats in Utrecht, with love of practicing yoga and making coffee. 
+Welcome to my GitHub space!
+I’m a **data professional** based in Utrecht, living with my three lovely cats, and fueled by yoga and good coffee.
+
 
 ## 📘 My Journey
 
